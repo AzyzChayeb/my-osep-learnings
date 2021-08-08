@@ -3,7 +3,7 @@
 i started my lab  - on 1st august 2021 . this complete repo has all information realated to osep preparation
 
 
-prerquisits --> 
+before lab learnings or prerquisits --> 
 
 learn c#  - its importent to have understanding about this language inorder to build the exploits and scripts . This will not only help you in clearning your certification but also it will help in red teaming engagements . I dont know why people says coding is not requried , to be honest its required as an red teamer or for long term survival. A lot of defensive solutions are blocking the common techniques so its better to learn some code and design your own custom code to evade the detections . 
 
@@ -28,3 +28,47 @@ javascript - again this is for phishing simulations -  learn javascript for pent
 
 common resource - https://www.youtube.com/watch?v=HptfL5WRYF8
 
+windows API  - windows api for exploitation by pentesteracademy 
+
+resource - 
+
+https://www.pentesteracademy.com/course?id=31
+https://int0x33.medium.com/day-59-windows-api-for-pentesting-part-1-178c6ba280cb
+
+
+windows system programming - its very importent to have understaing aboout windows internals :) 
+
+resource - https://edu.anarcho-copy.org/other/Windows/Windows%2010%20System%20Programming.pdf
+
+quick refreshers :- 
+
+finally a good talk about av bypassing -  https://www.youtube.com/watch?v=lP2KF7_Kwxk
+
+process injection resources - 
+
+https://www.youtube.com/watch?v=xewv122qxnk
+https://github.com/rajiv2790/FalconEye
+https://github.com/alphaSeclab/injection-stuff/blob/master/Readme_en.md
+https://github.com/christophetd/spoofing-office-macro
+https://github.com/3xpl01tc0d3r/ProcessInjection
+
+Active directory attacks - 
+
+setup vulneable ad - https://github.com/WazeHell/vulnerable-AD
+
+resources - 
+https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet
+https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Active%20Directory%20Attack.md
+
+Courses for recommendations 
+
+If you not OSCP - then take this live training if you have less time -  https://certcube.com/offensive-ctf/
+if you can research -  solve HTB and tryhackme and vulnhub 
+
+if you are already oscp - 
+
+Try to learn -  C2 - Covenant and Cobaltstrike 
+Recommanded trainings - CRTP and CRTO
+HTB - offshore lab, dante lab 
+
+these all skills are perrequisite for becoming an successful pentesterand OSEP Damm!! too much stress !!
