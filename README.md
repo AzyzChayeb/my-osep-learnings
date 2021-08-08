@@ -66,9 +66,10 @@ resources -
 https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet
 https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Active%20Directory%20Attack.md
 
-Courses for recommendations 
+Course recommendations :- 
 
 If you not OSCP - then take this live training if you have less time -  https://certcube.com/offensive-ctf/
+
 if you can research -  solve HTB and tryhackme and vulnhub 
 
 if you are already oscp - 
