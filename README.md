@@ -5,7 +5,7 @@ i started my lab  - on 1st august 2021 . this complete repo has all information 
 
 prerquisits --> 
 
-learn c#  - its importent to have understanding about this language inorder to build the exploits and scripts . This will not only help in you in clearning your certification but also it will help in red teamings . I dont know why people  says coding is not requried , to be honest its required as an red teamer . A lot of defensive solutions are blocking the common techniques so its better to learn some code and design your own custom code to evade the detections . 
+learn c#  - its importent to have understanding about this language inorder to build the exploits and scripts . This will not only help you in clearning your certification but also it will help in red teaming engagements . I dont know why people says coding is not requried , to be honest its required as an red teamer or for long term survival. A lot of defensive solutions are blocking the common techniques so its better to learn some code and design your own custom code to evade the detections . 
 
 resources - if you are aboslute beginner then i recommand Mosh Hamedani courses . this guy is amazing :) 
 
