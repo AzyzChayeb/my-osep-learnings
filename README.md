@@ -1,9 +1,9 @@
 # my-osep-learnings
 
-i started my lab  - on 1st august 2021 . this complete repo has all information realated to osep preparation
+i started my lab on 1st august 2021 . this complete repo has all information realated to osep preparation . Before i started the lab i finished below mentioned resources .
 
 
-before lab learnings or prerquisits --> 
+**before lab learnings or prerquisits --> **
 
 learn c#  - its importent to have understanding about this language inorder to build the exploits and scripts . This will not only help you in clearning your certification but also it will help in red teaming engagements . I dont know why people says coding is not requried , to be honest its required as an red teamer or for long term survival. A lot of defensive solutions are blocking the common techniques so its better to learn some code and design your own custom code to evade the detections . 
 
@@ -12,6 +12,8 @@ resources - if you are aboslute beginner then i recommand Mosh Hamedani courses 
 https://medium.com/javarevisited/5-best-c-c-sharp-programming-courses-for-beginners-in-2020-494f7afc7a5c
 
 https://medium.com/@codequsdotcom/programming-in-c-full-course-for-beginners-d1cfe83bee0f
+
+https://github.com/mvelazc0/defcon27_csharp_workshop
 
 Learn vba scripting -  its importent to learn vb scripting for spearphishing during engagements however this is not really importent for those who works in assume breach enviournments . But for freshsers its worth 
 
@@ -35,6 +37,9 @@ resource -
 https://www.pentesteracademy.com/course?id=31
 https://int0x33.medium.com/day-59-windows-api-for-pentesting-part-1-178c6ba280cb
 
+Crypto for fun - actually for evading stuff !!!
+
+resources - https://cryptopals.com
 
 windows system programming - its very importent to have understaing aboout windows internals :) 
 
@@ -51,6 +56,7 @@ https://github.com/rajiv2790/FalconEye
 https://github.com/alphaSeclab/injection-stuff/blob/master/Readme_en.md
 https://github.com/christophetd/spoofing-office-macro
 https://github.com/3xpl01tc0d3r/ProcessInjection
+https://i.blackhat.com/USA-19/Thursday/us-19-Kotler-Process-Injection-Techniques-Gotta-Catch-Them-All-wp.pdf
 
 Active directory attacks - 
 
