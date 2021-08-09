@@ -1,6 +1,6 @@
 # my-osep-learnings
 
-i started my lab on 1st august 2021 . this complete repo has all information realated to osep preparation . Before i started the lab i finished below mentioned resources .
+ this complete repo has all information realated to osep preparation .
 
 
 **before lab learnings or prerquisits --> **
