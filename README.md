@@ -5,7 +5,7 @@
 
 **before lab learnings or prerquisits --> **
 
-learn c#  - its importent to have understanding about this language inorder to build the exploits and scripts . This will not only help you in clearning your certification but also it will help in red teaming engagements . I dont know why people says coding is not requried , to be honest its required as an red teamer or for long term survival. A lot of defensive solutions are blocking the common techniques so its better to learn some code and design your own custom code to evade the detections . 
+learn c#  - this language is importent to learn inorder to build the exploits and scripts . This will not only help you in clearning your certification but also it will help you in your future red teaming engagements . I dont know why people says coding is not requried , to be honest its required as an red teamer / also for long term survival in this compititce industry. A lot of defensive solutions are blocking the common techniques so its better to learn some code and design your own custom code to evade the detections . 
 
 resources - if you are aboslute beginner then i recommand Mosh Hamedani courses . this guy is amazing :) 
 
