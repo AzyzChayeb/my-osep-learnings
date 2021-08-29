@@ -1,0 +1,6 @@
+C:\Users\Offsec\source\repos\helper_enable_console1\helper_enable_console1\bin\x64\Release\helper_enable_console1.exe.config
+C:\Users\Offsec\source\repos\helper_enable_console1\helper_enable_console1\bin\x64\Release\helper_enable_console1.exe
+C:\Users\Offsec\source\repos\helper_enable_console1\helper_enable_console1\bin\x64\Release\helper_enable_console1.pdb
+C:\Users\Offsec\source\repos\helper_enable_console1\helper_enable_console1\obj\x64\Release\helper_enable_console1.csproj.CoreCompileInputs.cache
+C:\Users\Offsec\source\repos\helper_enable_console1\helper_enable_console1\obj\x64\Release\helper_enable_console1.exe
+C:\Users\Offsec\source\repos\helper_enable_console1\helper_enable_console1\obj\x64\Release\helper_enable_console1.pdb

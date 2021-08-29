@@ -1,0 +1,2 @@
+C:\Users\Offsec\source\repos\helper\helper\obj\Debug\helper.csprojAssemblyReference.cache
+C:\Users\Offsec\source\repos\helper\helper\obj\Debug\helper.csproj.CoreCompileInputs.cache
