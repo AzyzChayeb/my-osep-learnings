@@ -1,0 +1,7 @@
+C:\Users\Offsec\source\repos\helper_office_macro\helper_office_macro\bin\x64\Release\helper_office_macro.exe.config
+C:\Users\Offsec\source\repos\helper_office_macro\helper_office_macro\bin\x64\Release\helper_office_macro.exe
+C:\Users\Offsec\source\repos\helper_office_macro\helper_office_macro\bin\x64\Release\helper_office_macro.pdb
+C:\Users\Offsec\source\repos\helper_office_macro\helper_office_macro\obj\x64\Release\helper_office_macro.csprojAssemblyReference.cache
+C:\Users\Offsec\source\repos\helper_office_macro\helper_office_macro\obj\x64\Release\helper_office_macro.csproj.CoreCompileInputs.cache
+C:\Users\Offsec\source\repos\helper_office_macro\helper_office_macro\obj\x64\Release\helper_office_macro.exe
+C:\Users\Offsec\source\repos\helper_office_macro\helper_office_macro\obj\x64\Release\helper_office_macro.pdb
