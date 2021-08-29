@@ -1,0 +1,7 @@
+C:\Users\Offsec\source\repos\nonemulatedapi\nonemulatedapi\bin\x64\Release\nonemulatedapi.exe.config
+C:\Users\Offsec\source\repos\nonemulatedapi\nonemulatedapi\bin\x64\Release\nonemulatedapi.exe
+C:\Users\Offsec\source\repos\nonemulatedapi\nonemulatedapi\bin\x64\Release\nonemulatedapi.pdb
+C:\Users\Offsec\source\repos\nonemulatedapi\nonemulatedapi\obj\x64\Release\nonemulatedapi.csprojAssemblyReference.cache
+C:\Users\Offsec\source\repos\nonemulatedapi\nonemulatedapi\obj\x64\Release\nonemulatedapi.csproj.CoreCompileInputs.cache
+C:\Users\Offsec\source\repos\nonemulatedapi\nonemulatedapi\obj\x64\Release\nonemulatedapi.exe
+C:\Users\Offsec\source\repos\nonemulatedapi\nonemulatedapi\obj\x64\Release\nonemulatedapi.pdb
