@@ -21,6 +21,8 @@ Learn vba scripting -  its importent to learn vb scripting for spearphishing dur
 
 resources -  https://www.youtube.com/watch?v=v6aI9UcX07I&list=PL85sj9BSdQ14Uuz1beTSrBgM97BJ8M5DK&index=1
 
+VBA Macro bypassing av --> https://www.youtube.com/watch?v=9hIWYtyO-eM
+
 Poewershell scripting - you can also choose powershell for pentesters course from pentesters academy or sans505 if you are rich !!!
 
 common resource -  
@@ -47,7 +49,6 @@ windows system programming - its very importent to have understaing aboout windo
 
 resource - https://edu.anarcho-copy.org/other/Windows/Windows%2010%20System%20Programming.pdf
 
-VBA Macro bypassing av --> https://www.youtube.com/watch?v=9hIWYtyO-eM
 
 quick refreshers :- 
 
