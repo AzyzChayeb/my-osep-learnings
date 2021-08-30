@@ -47,6 +47,8 @@ windows system programming - its very importent to have understaing aboout windo
 
 resource - https://edu.anarcho-copy.org/other/Windows/Windows%2010%20System%20Programming.pdf
 
+VBA Macro bypassing av --> https://www.youtube.com/watch?v=9hIWYtyO-eM
+
 quick refreshers :- 
 
 finally a good talk about av bypassing -  https://www.youtube.com/watch?v=lP2KF7_Kwxk
