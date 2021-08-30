@@ -41,6 +41,9 @@ resource - Added in the repo a book from pavel :)
 https://www.pentesteracademy.com/course?id=31
 https://int0x33.medium.com/day-59-windows-api-for-pentesting-part-1-178c6ba280cb
 
+
+windbg fundamentals -- https://www.youtube.com/watch?v=QuFJpH3My7A
+
 Crypto for fun - actually for evading stuff !!!
 
 resources - https://cryptopals.com
