@@ -72,14 +72,14 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20an
 
 Course recommendations :- 
 
-If you not OSCP - then take this live training if you have less time -  https://certcube.com/offensive-ctf/
+TO upgrade skills from base to core --> take this live training if you have less time -  https://certcube.com/offensive-ctf/
 
 if you can research -  solve HTB and tryhackme and vulnhub 
 
 if you are already oscp - 
 
 Try to learn -  C2 - Covenant and Cobaltstrike 
-Recommanded trainings - CRTP and CRTO
+Recommanded trainings - CRTO course
 HTB - offshore lab, dante lab 
 
 these all skills are perrequisite for becoming an successful pentesterand OSEP Damm!! too much stress !!
