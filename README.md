@@ -15,6 +15,8 @@ https://medium.com/@codequsdotcom/programming-in-c-full-course-for-beginners-d1c
 
 https://github.com/mvelazc0/defcon27_csharp_workshop
 
+Evasion Av with C# -  https://www.youtube.com/watch?v=pdMgQSTuN0M&list=PLlbW0JD9GV5m53UzA3kvE1-WVvDKoNi-o 
+
 Learn vba scripting -  its importent to learn vb scripting for spearphishing during engagements however this is not really importent for those who works in assume breach enviournments . But for freshsers its worth 
 
 resources -  https://www.youtube.com/watch?v=v6aI9UcX07I&list=PL85sj9BSdQ14Uuz1beTSrBgM97BJ8M5DK&index=1
