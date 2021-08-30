@@ -32,9 +32,9 @@ javascript - again this is for phishing simulations -  learn javascript for pent
 
 common resource - https://www.youtube.com/watch?v=HptfL5WRYF8
 
-windows API  - windows api for exploitation by pentesteracademy 
+windows API  -learn windows API from pavel  -  https://scorpiosoftware.net/
 
-resource - 
+resource - Added in the repo a book from pavel :) 
 
 https://www.pentesteracademy.com/course?id=31
 https://int0x33.medium.com/day-59-windows-api-for-pentesting-part-1-178c6ba280cb
